@@ -1,0 +1,2 @@
+# Javascript-Credit-Card-Mask
+:rocket: Descrição do problema: Normalmente, quando você compra algo, é perguntado se o número do seu cartão de crédito, número de telefone ou a resposta à sua pergunta mais secreta ainda está correta. No entanto, como alguém pode olhar por cima do seu ombro, você não quer que isso seja mostrado na tela. Em vez disso, nós o mascaramos. Sua tarefa é escrever uma máscara de função, que muda todos, exceto os quatro últimos caracteres em '#'.
